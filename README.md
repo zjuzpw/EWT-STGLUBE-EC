@@ -1,5 +1,5 @@
 # EWT-STGLUBE-EC
-Data and codes of EWT-STGLUBE-EC. All data and codes will be publicized after the the confidentiality period.
+Data and codes of EWT-STGLUBE-EC. All data and codes will be publicized after the confidentiality period.
 ## Data description:
 "total": oxygen demand of downstream consumers.\
 "totalN": nitrogen demand of downstream consumers.\
